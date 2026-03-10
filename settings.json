@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "slingmc.aternos.me",
+    "port": 63866,
     "version": "",
     "try-creative": false
   },
